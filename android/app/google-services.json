@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "130437468202",
+    "firebase_url": "https://deliverdeck-136fb.firebaseio.com",
+    "project_id": "deliverdeck-136fb",
+    "storage_bucket": "deliverdeck-136fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130437468202:android:594c349322206a275bb353",
+        "android_client_info": {
+          "package_name": "team.xeon.deliverdeck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130437468202-h4pggpmh1l8pl80qkaqvpjpg4lcssdj4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "team.xeon.deliverdeck",
+            "certificate_hash": "279d42e9a22744a865f19c1c7bcf530c5de1a5b9"
+          }
+        },
+        {
+          "client_id": "130437468202-svkndpurbb7njukvdjhb7ac1vbbkegsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmHN9r-RrlcOerpIjjBkNviqBkrjwkfs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130437468202-svkndpurbb7njukvdjhb7ac1vbbkegsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
